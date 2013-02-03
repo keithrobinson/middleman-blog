@@ -1,0 +1,9 @@
+<% blog.articles[0...5].each do |article| %>
+  <article>
+    <h1><a href="<%= article.url %>"><%= article.title %></a></h1>
+    <h2><%= article.data.author %></h2>
+    <time><%= article.date.strftime('%b %e, %Y') %></time>
+    <p class="intro"><%= article.data.teaser %></p>
+    <p><a href="<%= article.url %>">Read more.</a></p>
+  </article>
+<% end %>
