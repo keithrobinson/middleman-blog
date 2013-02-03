@@ -1,8 +1,8 @@
 ---
-title: 365
-date: 2012-01-01
+title: The New Way of Doing Things!
+date: 2013-01-01
 tags: fun, stuff, things
-author: D. Keith Robinson
+author: Joe Schmo
 teaser: This year I wanted to do something a bit different. I wanted to come up with something I could do on an ongoing basis that kept me engaged, learning and thinking about ways to be better. I started making a list of some “guiding principles” I wanted to keep in mind, not only for 2013, but daily. I looked at this and thought about it for a long time, trying to figure out something actionable I could do with it.
 ---
 
